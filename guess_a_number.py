@@ -1,7 +1,7 @@
 import random
 
 play_game = True
-level = 1  # Set a level to increase difficulty if player guess the number.
+level = 1  # Set a level to increase difficulty if player guesses the number.
 tries = 5  # Set initial number of tries for level 1.
 tries_left = tries
 print(f"Level {level}")
